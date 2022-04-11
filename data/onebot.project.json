@@ -1,0 +1,23 @@
+{
+  "name": "OneBot",
+  "symbol": "OBOT",
+  "description": "OneBot is your digital companion for the esports and gaming metaverse. OneBot Genesis collection features 6,000 unique robotic avatars, each constructed with futuristic materials, glowing neon lights, and an animated expression displaying their personality. Each OneBot has it's own custom utility that enhances the functionality and appearance within the Esports Metaverse.",
+  "image": "https://esportsone.com/wp-content/uploads/2022/04/banner-1400x400-1.png",
+  "external_link": "https://www.esportsone.com/",
+  "contract": "0xe5a28e29a5e683e79535bd25057f6e0d59e080aa",
+  "links": {
+    "openSea": "https://opensea.io/collection/onebot",
+    "twitter": "https://twitter.com/EsportsOne",
+    "discord": "https://discord.gg/e1"
+  },
+  "theme": {
+    "isDark": true,
+    "back": "#112233",
+    "primary": "#FFBB22",
+    "secondary": "#BEC61A",
+    "highlight": "#FFC61A",
+    "borderWidth": "2px",
+    "borderRadius": "8px",
+    "boxShadowWidth": "8px"
+  }
+}
