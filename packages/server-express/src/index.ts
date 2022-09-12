@@ -8,7 +8,7 @@ dotenv.config();
 
 const config: DiscordRequestConfig & DiscordCommandConfig & DiscordRegisterCommandsConfig = {
     baseDataUrl: 'http://localhost:3000/data/',
-    baseWebUrl: 'https://openrarity.xyz/',
+    baseWebUrl: 'https://esportsone.com/',
 
     /** 
      * Set this in .env file 

@@ -57,7 +57,7 @@ export const handleDiscordCommand = async ({ config, command }:{ config: Discord
         const projects = await result.json() as INftProjectsDocument;
         return {
             kind,
-            message: `OpenRarity\n${baseWebUrl}\n\n` + projects.projects.map(x => getProjectSummary({baseWebUrl,...x})).join('\n\n'),
+            message: `EsportsOne\n${baseWebUrl}\n\n` + projects.projects.map(x => getProjectSummary({baseWebUrl,...x})).join('\n\n'),
             // link: `${baseWebUrl}/`,
         };
     }
