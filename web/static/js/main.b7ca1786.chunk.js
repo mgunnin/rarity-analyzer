@@ -2789,12 +2789,12 @@
                 style: { width: "100%" },
                 children: Object(j.jsx)(st, {}),
               }),
-              Object(j.jsx)(ft, {}),
+              //              Object(j.jsx)(ft, {}),
               Object(j.jsx)(ut, {}),
             ],
           })
-        },
-        ft = function (t) {
+        }
+      /*         ft = function (t) {
           return Object(j.jsx)(j.Fragment, {
             children: Object(j.jsxs)("div", {
               style: { display: "flex", flexDirection: "row" },
@@ -2838,7 +2838,7 @@
               ],
             }),
           })
-        }
+        } */
       var pt = function (t) {
           var e,
             n,

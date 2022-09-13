@@ -2719,11 +2719,11 @@
                 style: { width: "100%" },
                 children: Object(j.jsx)(st, {}),
               }),
-              Object(j.jsx)(dt, {}),
+//              Object(j.jsx)(dt, {}),
             ],
           })
-        },
-        dt = function (t) {
+        }
+/*        dt = function (t) {
           return Object(j.jsx)(j.Fragment, {
             children: Object(j.jsxs)("div", {
               style: { display: "flex", flexDirection: "row" },
@@ -2748,7 +2748,7 @@
               onClick: function (t) {
                 r && (t.preventDefault(), t.stopPropagation(), window.open(r))
               },
-              children: [
+       children: [
                 Object(j.jsx)("div", {
                   children: Object(j.jsx)("img", {
                     style: { width: 150, height: 150, objectFit: "contain" },
@@ -2766,8 +2766,8 @@
                 Object(j.jsx)("div", { children: "OneDayPunk #".concat(e) }),
               ],
             }),
-          })
-        }
+          }) 
+        }*/
       var ft = function (t) {
           var e,
             n,
