@@ -15,7 +15,7 @@ export const HomePage = () => {
       <div style={{ width: "100%" }}>
         <NftProjectsLoader />
       </div>
-      <CharacterArea />
+      {/* <CharacterArea /> */}
 
       <OtherRarityTools />
     </div>
