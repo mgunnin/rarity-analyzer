@@ -2598,13 +2598,13 @@
                       style: { fontSize: 36, marginRight: 16 },
                       children: Object(j.jsx)("a", {
                         href: "/",
-                        children: "OpenRarity",
+                        children: "OneDAO",
                       }),
                     }),
                     Object(j.jsx)("div", {
                       style: { fontSize: 20 },
                       children: Object(j.jsx)("a", {
-                        href: "https://github.com/cryptoDevAmigos/rarity-analyzer",
+                        href: "https://github.com/One-DAO",
                         children: Object(j.jsx)(x, { icon: "github" }),
                       }),
                     }),
