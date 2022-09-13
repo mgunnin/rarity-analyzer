@@ -22,7 +22,7 @@ export const HomePage = () => {
   )
 }
 
-const CharacterArea = (props: {}) => {
+/* const CharacterArea = (props: {}) => {
   return (
     <>
       <div style={{ display: "flex", flexDirection: "row" }}>
@@ -34,7 +34,7 @@ const CharacterArea = (props: {}) => {
       </div>
     </>
   )
-}
+} */
 
 const Character = ({
   punkId,
