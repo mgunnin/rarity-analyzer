@@ -2804,11 +2804,6 @@
                   name: "@NotChris",
                   link: "https://twitter.com/HemanCalvin",
                 }),
-                Object(j.jsx)(vt, {
-                  punkId: 578,
-                  name: "@RickLove",
-                  link: "https://twitter.com/Rick_00_Love",
-                }),
               ],
             }),
           })
