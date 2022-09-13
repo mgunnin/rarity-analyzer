@@ -36,7 +36,7 @@ export const HomePage = () => {
   )
 } */
 
-const Character = ({
+/* const Character = ({
   punkId,
   name,
   link,
@@ -73,5 +73,4 @@ const Character = ({
         <div>{`OneDayPunk #${punkId}`}</div>
       </div>
     </>
-  )
-}
+  ) */
