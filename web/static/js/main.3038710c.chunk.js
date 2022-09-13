@@ -2720,19 +2720,11 @@
               style: { marginTop: 64 },
               children: [
                 Object(j.jsx)("div", {
-                  children: "Our Friends - Also making cool tools!",
+                  children: "OneDAO Metaverse",
                 }),
                 Object(j.jsx)(dt, {
-                  name: "Punkscapes Cool Rarity",
-                  url: "https://punkscape.coolrarity.com/",
-                }),
-                Object(j.jsx)(dt, {
-                  name: "Punkscapes Rarity",
-                  url: "https://punkscapes-rarity.vercel.app/",
-                }),
-                Object(j.jsx)(dt, {
-                  name: "Kinesis Rarity",
-                  url: "https://kinesis-rarity.vercel.app/",
+                  name: "Esports One",
+                  url: "https://esportsone.com/",
                 }),
               ],
             }),
